@@ -17,4 +17,4 @@ NB :
 
 mySetup[doesn't require DB].jar qui est oriente vers vous , si on chois seulement la nature de compte et on clique sur « submit » il va vous diriger vers la suite sans même de se connecter avec la base de données .
 
-
+![all](https://user-images.githubusercontent.com/59047199/127766805-67f9b623-439b-4fe2-a90c-0adc02c39e96.jpg)
